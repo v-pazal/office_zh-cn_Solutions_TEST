@@ -181,7 +181,7 @@ private static void GetMMSTermsFromCloud(ClientContext cc)
 
 
 
-- [适用于 SharePoint 2013 和 SharePoint Online 的企业内容管理解决方案](enterprise-content-management-solutions-for-sharepoint-2013-and-sharepoint-online.md)
+- [适用于 SharePoint 2013 和 SharePoint Online 的企业内容管理解决方案](Enterprise-Content-Management-solutions-for-SharePoint-2013-and-SharePoint-Online.md)
     
 - [Core.MMSSync 示例](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.MMSSync)
     

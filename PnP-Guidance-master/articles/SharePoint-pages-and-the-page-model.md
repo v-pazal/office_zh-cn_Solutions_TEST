@@ -172,7 +172,7 @@ SharePoint 是一个基于模板的页面呈现系统，它将母版页、内容
 
 
 
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     
 - [SharePoint 2013 中的母版页、母版页样式库和页面布局](http://msdn.microsoft.com/library/80b9a360-bc2e-46c6-b0ca-1bc487b73db6%28Office.15%29.aspx)
     

@@ -151,7 +151,7 @@ using (ClientContext context = new ClientContext("https://contoso.sharepoint.com
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [SharePoint 2013 中的外接程序授权策略类型](http://msdn.microsoft.com/library/124879c7-a746-4c10-96a7-da76ad5327f0%28Office.15%29.aspx)
     

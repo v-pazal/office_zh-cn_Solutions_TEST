@@ -280,7 +280,7 @@
 
 
 
-- [SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)
+- [SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)
     
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     

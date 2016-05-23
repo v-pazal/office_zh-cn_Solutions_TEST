@@ -15,7 +15,7 @@
     
 - 在对列表中的某个项目做出更改后，启动一个业务流程。
     
-- 补充您的远程事件接收器。使用带有远程事件接收器模式的更改日志模式提供更为可靠的体系结构，以便处理对 SharePoint 内容数据库、网站集、网站或列表所做的所有更改。远程事件接收器立即运行，但是因为它们在远程服务器上运行，您可能会遇到通信故障。此更改日志模式可以确保所有更改都可用于进行处理，但是此应用程序对更改的处理通常按照计划运行（例如，计时器作业）。这意味着不会立即处理更改。如果同时使用这两种模式，请确保您使用某种机制来防止对同一更改处理两次。有关详细信息，请参阅 [使用 SharePoint 中的远程事件接收器](use-remote-event-receivers-in-sharepoint.md)。
+- 补充您的远程事件接收器。使用带有远程事件接收器模式的更改日志模式提供更为可靠的体系结构，以便处理对 SharePoint 内容数据库、网站集、网站或列表所做的所有更改。远程事件接收器立即运行，但是因为它们在远程服务器上运行，您可能会遇到通信故障。此更改日志模式可以确保所有更改都可用于进行处理，但是此应用程序对更改的处理通常按照计划运行（例如，计时器作业）。这意味着不会立即处理更改。如果同时使用这两种模式，请确保您使用某种机制来防止对同一更改处理两次。有关详细信息，请参阅 [使用 SharePoint 中的远程事件接收器](Use-remote-event-receivers-in-SharePoint.md)。
     
  **为改进此内容做贡献**
 您可以获取最新的更新，或为改进 [Github 上的此文章](https://github.com/OfficeDev/PnP-Guidance/blob/master/articles/Query-SharePoint-change-log-with-ChangeQuery-and-Change-Tokens.md)做贡献。您还可以为改进本示例以及 [GitHub 上的其他示例](https://github.com/OfficeDev/PnP)做贡献。有关示例的完整列表，请参阅 [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)。我们欢迎您做出 [贡献](https://github.com/OfficeDev/PnP/wiki/contributing-to-Office-365-developer-patterns-and-practices)。 

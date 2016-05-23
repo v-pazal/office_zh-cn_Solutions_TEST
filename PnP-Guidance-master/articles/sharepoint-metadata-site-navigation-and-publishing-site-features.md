@@ -31,7 +31,7 @@
 |托管元数据|您可以用于定义的集中托管术语和 SharePoint 中的属性项的分层集合。您可以使用托管元数据来管理内容类型发布和创建分类。在 SharePoint 2013 和 SharePoint Online 中，托管的元数据服务可用于创建托管导航 - 由分类驱动的网站导航。有关详细信息，请参阅：
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><a href="https://msdn.microsoft.com/zh-cn/library/office/bb897739(v=office.14).aspx" target="_blank">在 SharePoint Server 2010 (ECM) 中自定义导航控件和提供程序</a></p></li><li><p><a href="https://support.office.com/zh-cn/article/Introduction-to-managed-metadata-a180fa28-6405-4679-9ec3-81d2028c4efc?CorrelationId=2a4dbdb0-0199-40e2-ac58-568ca0a3f099&amp;ui=en-US&amp;rs=en-US&amp;ad=US" target="_blank">托管元数据简介</a></p></li><li><p><a href="https://support.office.com/zh-cn/article/Introduction-to-managed-metadata-in-SharePoint-Server-2010-b324aebd-67ab-45a8-933d-ceedb2d909ea?CorrelationId=9152b80c-9fe4-43c5-bacc-178cc49d0e8f&amp;ui=en-US&amp;rs=en-US&amp;ad=US" target="_blank">SharePoint Server 2010 中的托管元数据简介</a></p></li><li><p><a href="https://technet.microsoft.com/zh-cn/library/ee530393(v=office.14).aspx" target="_blank">托管元数据管理 (SharePoint Server 2010)</a></p></li><li><p><a href="http://msdn.microsoft.com/library/b66d4ec1-a2ef-49cc-8ca5-a6b516bff02e(Office.15).aspx" target="_blank">SharePoint 2013 中的托管元数据和导航</a></p></li><li><p><a href="http://msdn.microsoft.com/library/c9da5011-3c73-4b83-8e00-e7a03a71ed02(Office.15).aspx" target="_blank">SharePoint 2013 中的托管导航</a></p></li><li><p><a href="https://msdn.microsoft.com/zh-cn/library/office/hh147179(v=office.14).aspx" target="_blank">在 SharePoint Server 2010 中迁移托管元数据</a></p></li></ul>|
 |[导航命名空间](https://msdn.microsoft.com/zh-cn/library/office/microsoft.sharepoint.client.publishing.navigation.aspx)|包含客户端对象模型 (CSOM) 类，该类对发布网站支持网站导航。 |
-|[分类命名空间](https://msdn.microsoft.com/zh-cn/library/office/microsoft.sharepoint.client.taxonomy.aspx)|包含支持分类功能的 CSOM 类。有关详细信息，请参阅 [同步术语组示例 SharePoint 外接程序](synchronize-term-groups-sample-app-for-sharepoint.md)。|
+|[分类命名空间](https://msdn.microsoft.com/zh-cn/library/office/microsoft.sharepoint.client.taxonomy.aspx)|包含支持分类功能的 CSOM 类。有关详细信息，请参阅 [同步术语组示例 SharePoint 外接程序](Synchronize-term-groups-sample-app-for-SharePoint.md)。|
 |固定|类似于重复使用术语，固定维护源术语和重复使用实例之间的共享关系。例如，共享关系可以跨越跨网站发布方案中的网站集。无论术语固定在哪里，可随时添加或删除术语，跨层次结构对操作进行更新。有关详细信息，请参阅 [如何：在 SharePoint 2013 中使用代码将术语固定到导航术语集](http://msdn.microsoft.com/library/4a2811dc-25fd-4eb2-b0ab-1edded64c556%28Office.15%29.aspx)。|
 |产品目录|有关信息，请参阅以下文章：
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><a href="http://msdn.microsoft.com/library/33f49e69-c1d3-4a6e-8887-5df683cba022(Office.15).aspx" target="_blank">SharePoint 2013 中的跨站点发布</a></p></li><li><p><a href="https://technet.microsoft.com/zh-cn/library/jj656774(v=office.15).aspx" target="_blank">在 SharePoint Server 2013 中配置跨网站发布</a></p></li></ul>|
@@ -44,7 +44,7 @@
 默认情况下，发布到面向公众的 SharePoint 本地网站的 Web 内容可供匿名用户使用。默认情况下，CSOM 和 REST 对匿名用户不可用。
 
 
- **重要信息**  此方案向本地 SharePoint 网站呈现一个潜在的严重威胁。在使用 [使用远程设置打造 SharePoint 页面品牌](use-remote-provisioning-to-brand-sharepoint-pages.md)中所述的远程设置模型来设置发布网站品牌之前，请确保已正确地设置您网站的安全性和权限，并考虑了匿名访问的安全隐患。
+ **重要信息**  此方案向本地 SharePoint 网站呈现一个潜在的严重威胁。在使用 [使用远程设置打造 SharePoint 页面品牌](Use-remote-provisioning-to-brand-SharePoint-pages.md)中所述的远程设置模型来设置发布网站品牌之前，请确保已正确地设置您网站的安全性和权限，并考虑了匿名访问的安全隐患。
 
 如果网站管理员创建的新 Web 应用程序包括使用发布模板并且启用了匿名访问功能的网站集，则当应用程序上载到外接程序目录中时，网站的每个用户都将可以使用匿名访问。由于对本地 SharePoint 发布网站启用了匿名访问，那么如果未经过身份验证的用户导航到网站，会发生什么情况？
 
@@ -102,7 +102,7 @@
 
 ## 远程配置和发布网站
 
-您可以使用 [远程设置实践](use-remote-provisioning-to-brand-sharepoint-pages.md)对 SharePoint 发布网站设置品牌和其他自定义。
+您可以使用 [远程设置实践](Use-remote-provisioning-to-brand-SharePoint-pages.md)对 SharePoint 发布网站设置品牌和其他自定义。
 
 发布网站依赖于内容类型和将内容类型链接到页面布局和显示模板的  **ContentTypeId**。自定义和设置 SharePoint 发布页面内容依赖于此功能。而自定义发布网站设置行为的其他方面（如托管的元数据服务和托管的导航）则不依赖于  **ContentTypeId**，并在 CSOM 中受到完全支持。
 
@@ -518,7 +518,7 @@ SharePoint 2013 中的设备通道功能是一种自适应设计。它基于页�
 
 
 
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     
 - [如何：在 SharePoint 2013 中将样式应用到页面字段](http://msdn.microsoft.com/library/e227613d-0e4d-4312-924d-bb55e1fe4293%28Office.15%29.aspx)
     

@@ -19,16 +19,16 @@
 
 |**文章**|**示例**|**介绍如何...**|
 |:-----|:-----|:-----|
-|[读取或更新用户配置文件属性示例 SharePoint 外接程序](read-or-update-user-profile-properties-sample-app-for-sharepoint.md)|[UserProfile.Manipulation.CSOM](https://github.com/OfficeDev/PnP/tree/dev/Samples/UserProfile.Manipulation.CSOM)|读取和更新特定用户的用户配置文件属性。 |
-|[迁移用户配置文件属性示例 SharePoint 外接程序](migrate-user-profile-properties-sample-app-for-sharepoint.md)|[Core.ProfileProperty.Migration](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.ProfileProperty.Migration)|将用户配置文件数据从 SharePoint Server 2010 或 SharePoint Server 2013 迁移到 SharePoint Online 中。|
-|[个性化设置搜索结果示例 SharePoint 外接程序](personalize-search-results-sample-app-for-sharepoint.md)|[Search.PersonalizedResults ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Search.PersonalizedResults)|根据用户配置文件属性的值筛选信息，以个性化设置 SharePoint。 |
-|[上载用户配置文件图片示例 SharePoint 外接程序](upload-user-profile-pictures-sample-app-for-sharepoint.md)|[Core.ProfilePictureUploader ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.ProfilePictureUploader)|从文件共享或 SharePoint Online URL 批量上载用户配置文件数据，并将用户配置文件属性链接到已上载的图像。|
+|[读取或更新用户配置文件属性示例 SharePoint 外接程序](Read-or-update-user-profile-properties-sample-app-for-SharePoint.md)|[UserProfile.Manipulation.CSOM](https://github.com/OfficeDev/PnP/tree/dev/Samples/UserProfile.Manipulation.CSOM)|读取和更新特定用户的用户配置文件属性。 |
+|[迁移用户配置文件属性示例 SharePoint 外接程序](Migrate-user-profile-properties-sample-app-for-SharePoint.md)|[Core.ProfileProperty.Migration](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.ProfileProperty.Migration)|将用户配置文件数据从 SharePoint Server 2010 或 SharePoint Server 2013 迁移到 SharePoint Online 中。|
+|[个性化设置搜索结果示例 SharePoint 外接程序](Personalize-search-results-sample-app-for-SharePoint.md)|[Search.PersonalizedResults ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Search.PersonalizedResults)|根据用户配置文件属性的值筛选信息，以个性化设置 SharePoint。 |
+|[上载用户配置文件图片示例 SharePoint 外接程序](Upload-user-profile-pictures-sample-app-for-SharePoint.md)|[Core.ProfilePictureUploader ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.ProfilePictureUploader)|从文件共享或 SharePoint Online URL 批量上载用户配置文件数据，并将用户配置文件属性链接到已上载的图像。|
 
 ## 其他资源
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [Patterns and Prac1tices developer center](http://dev.office.com/patterns-and-practices)
     

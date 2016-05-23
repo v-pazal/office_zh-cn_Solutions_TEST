@@ -19,7 +19,7 @@ SharePoint Online 使用限制来阻止用户过度消耗资源。如果用户�
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [ClientContextExtensions.cs 示例](https://github.com/OfficeDev/PnP/blob/master/OfficeDevPnP.Core/OfficeDevPnP.Core/AppModelExtensions/ClientContextExtensions.cs)
     

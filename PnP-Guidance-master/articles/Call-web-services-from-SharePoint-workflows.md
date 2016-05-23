@@ -487,7 +487,7 @@ public void UpdateSuppliers(int id, IEnumerable<string> supplierNames)
 
 
 
-- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](composite-buisness-apps-for-sharepoint.md)
+- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](Composite-buisness-apps-for-SharePoint.md)
     
 - [使用 Visual Studio 2013 调试 SharePoint 2013 工作流](http://blogs.msdn.com/b/officeapps/archive/2013/10/30/debugging-sharepoint-2013-workflows-using-visual-studio-2013.aspx)
     

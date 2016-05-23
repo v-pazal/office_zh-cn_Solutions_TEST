@@ -33,7 +33,7 @@
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [GitHub 上的 Office 365 开发模式和做法](https://github.com/OfficeDev/PnP)
     

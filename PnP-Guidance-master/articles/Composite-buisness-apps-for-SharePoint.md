@@ -36,16 +36,16 @@
 
 |**文章**|**示例**|**介绍如何...**|
 |:-----|:-----|:-----|
-|[将 InfoPath 表单迁移到 SharePoint 2013](migrate-infopath-forms-to-sharepoint.md)||将您的 InfoPath 2013 表单迁移到其他受支持的技术。|
-|[SharePoint Online 中的数据存储选项](data-storage-options-in-sharepoint-online.md)|[Core.DataStorageModels](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.DataStorageModels)|使用不同类型的存储模型来存储 SharePoint Online 数据。|
-|[公司事件外接程序与 SharePoint 的集成](corporate-app-event-registration-with-sharepoint.md)|[BusinessApps.CorporateEventsApp ](https://github.com/OfficeDev/PnP/tree/dev/Solutions/BusinessApps.CorporateEventsApp)|使用提供程序托管的外接程序来实施复杂的业务任务。|
-|[从 SharePoint 工作流调用 Web 服务](call-web-services-from-sharepoint-workflows.md)|[Workflow.CallCustomService](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.CallCustomService)[Workflow.CallServiceUpdateSPViaProxy](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.CallServiceUpdateSPViaProxy)[Workflow.AssociateToHostWeb](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.AssociateToHostWeb)|使用提供程序托管的外接程序调用包含业务数据的远程 Web 服务。|
+|[将 InfoPath 表单迁移到 SharePoint 2013](Migrate-InfoPath-forms-to-SharePoint.md)||将您的 InfoPath 2013 表单迁移到其他受支持的技术。|
+|[SharePoint Online 中的数据存储选项](Data-storage-options-in-SharePoint-Online.md)|[Core.DataStorageModels](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.DataStorageModels)|使用不同类型的存储模型来存储 SharePoint Online 数据。|
+|[公司事件外接程序与 SharePoint 的集成](Corporate-app-event-registration-with-SharePoint.md)|[BusinessApps.CorporateEventsApp ](https://github.com/OfficeDev/PnP/tree/dev/Solutions/BusinessApps.CorporateEventsApp)|使用提供程序托管的外接程序来实施复杂的业务任务。|
+|[从 SharePoint 工作流调用 Web 服务](Call-web-services-from-SharePoint-workflows.md)|[Workflow.CallCustomService](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.CallCustomService)[Workflow.CallServiceUpdateSPViaProxy](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.CallServiceUpdateSPViaProxy)[Workflow.AssociateToHostWeb](https://github.com/OfficeDev/PnP/tree/dev/Samples/Workflow.AssociateToHostWeb)|使用提供程序托管的外接程序调用包含业务数据的远程 Web 服务。|
 
 ## 其他资源
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)
     

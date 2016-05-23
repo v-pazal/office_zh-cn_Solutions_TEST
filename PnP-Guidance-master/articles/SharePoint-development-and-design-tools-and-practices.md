@@ -255,7 +255,7 @@ public static ClientResult<DesignPackageInfo> ExportSmallBusiness(
 
 
 
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     
 - [SharePoint Server 2013 应用程序生命周期管理](http://msdn.microsoft.com/library/caaf9a09-2e6a-49e3-a8d6-aaf7f93a842a%28Office.15%29.aspx)
     

@@ -139,7 +139,7 @@ namespace AlternateCSSAppAutohostedWeb.Services
 
 
 
-- [SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)
+- [SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)
     
 - [如何使用 SharePoint 2013 中的脚本编辑器 Web 部件](http://community.bamboosolutions.com/blogs/sharepoint-2013/archive/2013/05/20/how-to-use-script-editor-web-part-in-sharepoint-2013.aspx)
     

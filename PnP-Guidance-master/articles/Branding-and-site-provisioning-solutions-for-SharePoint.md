@@ -166,7 +166,7 @@ SharePoint 文件和内容的状态会影响其应用更新，并控制 SharePoi
 |:-----|:-----|:-----|:-----|
 |1|用户请求通过表单对网站进行更改，这将启动审批工作流。 用户通过请求表单提交的数据使用任何可能的数据存储格式（SQL、SQL Azure、XML）存储。|[Provisioning.Cloud.Workflow.AppWeb ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Cloud.Workflow.AppWeb)|[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
 |2|如果工作流得到审批，SharePoint 外接程序 将调用存储的数据并根据用户在步骤 1 中提交的元数据设置网站。|[Provisioning.Batch](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Batch)[Provisioning.Cloud.Workflow.AppWeb ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Cloud.Workflow.AppWeb)[Provisioning.OnPrem.Async ](https://github.com/OfficeDev/PnP/tree/master/Samples/Provisioning.OnPrem.Async)[Provisioning.SiteCol.OnPrem](https://github.com/OfficeDev/PnP/tree/master/Samples/Provisioning.SiteCol.OnPrem)|[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
-|3|SharePoint 外接程序 将设置范围限定为请求表单中的指示，方法是使用外接程序 Web 和内容数据库中提供的数据。在此阶段中，将为网站设置适用的品牌元素。|[Branding.AlternateCSSAndSiteLogo ](https://github.com/OfficeDev/PnP/tree/master/Samples/Branding.AlternateCSSAndSiteLogo)[Branding.Themes](https://github.com/Lauragra/PnP/tree/master/Scenarios/Branding.Themes)[OD4B.Configuration.Async ](https://github.com/OfficeDev/PnP/tree/master/Solutions/OD4B.Configuration.Async)[Provisioning.Pages](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Provisioning.Pages)|[SharePoint 页面和页面模型](sharepoint-pages-and-the-page-model.md)[SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
+|3|SharePoint 外接程序 将设置范围限定为请求表单中的指示，方法是使用外接程序 Web 和内容数据库中提供的数据。在此阶段中，将为网站设置适用的品牌元素。|[Branding.AlternateCSSAndSiteLogo ](https://github.com/OfficeDev/PnP/tree/master/Samples/Branding.AlternateCSSAndSiteLogo)[Branding.Themes](https://github.com/Lauragra/PnP/tree/master/Scenarios/Branding.Themes)[OD4B.Configuration.Async ](https://github.com/OfficeDev/PnP/tree/master/Solutions/OD4B.Configuration.Async)[Provisioning.Pages](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Provisioning.Pages)|[SharePoint 页面和页面模型](SharePoint-pages-and-the-page-model.md)[SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
 
  **注释**  表 4 列出了可能是典型的远程设置方案的步骤。您使用的示例取决于最适合您的企业的方法。例如，如果您没有创建自定义审批工作流的业务需求，则您不需要使用该示例。 
 
@@ -201,7 +201,7 @@ SharePoint 文件和内容的状态会影响其应用更新，并控制 SharePoi
 |**示例**|**说明**|**相关文章**|
 |:-----|:-----|:-----|
 |[Provisioning.Batch](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Batch)|在控制台外接程序中设置网站集。|[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
-|[Provisioning.Pages](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Provisioning.Pages)|说明如何使用远程设置模型来设置 Wiki 页面，以及如何从 Wiki 页面添加远程 Web 部件和 HTML。|[SharePoint 页面和页面模型](sharepoint-pages-and-the-page-model.md)|
+|[Provisioning.Pages](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Provisioning.Pages)|说明如何使用远程设置模型来设置 Wiki 页面，以及如何从 Wiki 页面添加远程 Web 部件和 HTML。|[SharePoint 页面和页面模型](SharePoint-pages-and-the-page-model.md)|
 |[Provisioning.Cloud.Workflow.AppWeb ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Cloud.Workflow.AppWeb)|在主机 Web 和远程事件接收器上使用工作流设置网站集。|[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
 |[Provisioning.Cloud.Workflow.AppWeb ](https://github.com/OfficeDev/PnP/tree/dev/Samples/Provisioning.Cloud.Workflow.AppWeb)|在外接程序 Web 和远程事件接收器上使用工作流设置网站集。|[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
 
@@ -213,9 +213,9 @@ SharePoint 文件和内容的状态会影响其应用更新，并控制 SharePoi
 
 |**示例**|**说明**|**相关文章**|
 |:-----|:-----|:-----|
-|[Branding.Theme](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Branding.Themes)|显示如何应用主题 (CSOM)。|[SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)|
-|[OD4B.Configuration.Async](https://github.com/OfficeDev/PnP/tree/master/Solutions/OD4B.Configuration.Async)|说明如何使用远程设置模型来设置 Wiki 页面，以及如何从 Wiki 页面添加远程 Web 部件和 HTML。|[SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)|
-|[Branding.AlternateCSSAndSiteLogo ](https://github.com/OfficeDev/PnP/tree/master/Samples/Branding.AlternateCSSAndSiteLogo)|说明如何使用用户自定义操作和嵌入式 JavaScript (CSOM) 来设置主机网站的自定义 CSS。|[SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)|
+|[Branding.Theme](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Branding.Themes)|显示如何应用主题 (CSOM)。|[SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)|
+|[OD4B.Configuration.Async](https://github.com/OfficeDev/PnP/tree/master/Solutions/OD4B.Configuration.Async)|说明如何使用远程设置模型来设置 Wiki 页面，以及如何从 Wiki 页面添加远程 Web 部件和 HTML。|[SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)|
+|[Branding.AlternateCSSAndSiteLogo ](https://github.com/OfficeDev/PnP/tree/master/Samples/Branding.AlternateCSSAndSiteLogo)|说明如何使用用户自定义操作和嵌入式 JavaScript (CSOM) 来设置主机网站的自定义 CSS。|[SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)|
 |[Provisioning.OnPrem.Async](https://github.com/OfficeDev/PnP/tree/master/Samples/Provisioning.OnPrem.Async)[Provisioning.SiteCol.OnPrem](https://github.com/OfficeDev/PnP/tree/master/Samples/Provisioning.SiteCol.OnPrem)|说明如何使用服务将 SharePoint 主机 Web 中的所有信息封装在外接程序 Web 中，如何获取指定 Web 应用程序中的网站集列表，以及如何使用特定的 ContentTypeId 创建内容类型。如果您想使用远程设置模式来设置使用 SharePoint 外接程序的网站，但完成方案所需的 CSOM 成员在 CSOM 中尚未提供，此示例将尤其有用。 |[SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)|
 
 ## SharePoint 品牌打造工作流
@@ -291,11 +291,11 @@ SharePoint 网站的品牌设计和开发工作流与业内用于以下方面的
 ## 本节内容
 
 
-- [SharePoint 页面和页面模型](sharepoint-pages-and-the-page-model.md)
+- [SharePoint 页面和页面模型](SharePoint-pages-and-the-page-model.md)
     
-- [SharePoint 开发和设计工具及实践](sharepoint-development-and-design-tools-and-practices.md)
+- [SharePoint 开发和设计工具及实践](SharePoint-development-and-design-tools-and-practices.md)
     
-- [SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)
+- [SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)
     
 - [SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)
     
@@ -308,7 +308,7 @@ SharePoint 网站的品牌设计和开发工作流与业内用于以下方面的
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)
     

@@ -18,7 +18,7 @@
 
  **重要信息**  尽管您可以创建自定义母版页和其他结构元素作为自定义品牌项目的一部分，但支持自定义母版页和其他自定义结构元素的长期成本很高。自定义品牌打造会以更高昂的成本为您的组织应用升级，并提供持续支持。
 
-此部分基于您的知识和 [设计工具和设计打包选项](sharepoint-development-and-design-tools-and-practices.md)，向您演示如何自定义 SharePoint 网站的外观。
+此部分基于您的知识和 [设计工具和设计打包选项](SharePoint-development-and-design-tools-and-practices.md)，向您演示如何自定义 SharePoint 网站的外观。
  **为改进此内容做贡献**
 您可以获取最新的更新，或为改进 [GitHub 上的此文章](https://github.com/OfficeDev/PnP-Guidance)做贡献。您还可以为改进本示例以及 [GitHub 上的其他示例](https://github.com/OfficeDev/PnP)做贡献。有关示例的完整列表，请参阅 [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)。我们欢迎您做出 [贡献](https://github.com/OfficeDev/PnP/wiki/contributing-to-Office-365-developer-patterns-and-practices)。 
 
@@ -73,20 +73,20 @@
 
 |**文章**|**介绍如何...**|
 |:-----|:-----|
-|[使用组合外观打造 SharePoint 网站品牌](use-composed-looks-to-brand-sharepoint-sites.md)|将组合外观（包括颜色、字体和背景图像）应用到您的 SharePoint 2013 和 SharePoint Online 网站。|
-|[使用远程设置打造 SharePoint 页面品牌](use-remote-provisioning-to-brand-sharepoint-pages.md)|使用远程设置与 SharePoint 中的主题进行交互。|
-|[使用 CSS 打造 SharePoint 页面品牌](use-css-to-brand-pages.md)|使用远程设置与 SharePoint 中的主题进行交互。|
-|[使用远程设置和 CSS 自定义 SharePoint 页面](customize-a-sharepoint-page-by-using-remote-provisioning-and-css.md)|使用 CSS 自定义 SharePoint 格式文本字段和 Web 部件区域。|
+|[使用组合外观打造 SharePoint 网站品牌](Use-composed-looks-to-brand-SharePoint-sites.md)|将组合外观（包括颜色、字体和背景图像）应用到您的 SharePoint 2013 和 SharePoint Online 网站。|
+|[使用远程设置打造 SharePoint 页面品牌](Use-remote-provisioning-to-brand-SharePoint-pages.md)|使用远程设置与 SharePoint 中的主题进行交互。|
+|[使用 CSS 打造 SharePoint 页面品牌](Use-CSS-to-brand-pages.md)|使用远程设置与 SharePoint 中的主题进行交互。|
+|[使用远程设置和 CSS 自定义 SharePoint 页面](Customize-a-SharePoint-page-by-using-remote-provisioning-and-CSS.md)|使用 CSS 自定义 SharePoint 格式文本字段和 Web 部件区域。|
 |[更新现有 SharePoint 网站和页面区域的品牌](update-the-branding-of-existing-sharepoint-sites-and-page-regions.md)|自定义之后，刷新 SharePoint 页面的现有网站和区域的品牌。|
-|[自定义 OneDrive for Business 网站品牌](customization-options-for-od4b-sites.md)|在 Office 365 中或使用 外接程序模型自定义 OneDrive for Business 网站。|
+|[自定义 OneDrive for Business 网站品牌](Customization-Options-For-OD4B-Sites.md)|在 Office 365 中或使用 外接程序模型自定义 OneDrive for Business 网站。|
 
 ## 其他资源
 
 
 
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     
-- [SharePoint 页面和页面模型](sharepoint-pages-and-the-page-model.md)
+- [SharePoint 页面和页面模型](SharePoint-pages-and-the-page-model.md)
     
-- [SharePoint 开发和设计工具及实践](sharepoint-development-and-design-tools-and-practices.md)
+- [SharePoint 开发和设计工具及实践](SharePoint-development-and-design-tools-and-practices.md)
     

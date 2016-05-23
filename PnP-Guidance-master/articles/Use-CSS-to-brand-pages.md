@@ -211,7 +211,7 @@ namespace AlternateCSSAppAutohostedWeb.Services
 
 
 
-- [SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)
+- [SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)
     
 - [Branding.AlternateCSSAndSiteLogo 示例](https://github.com/OfficeDev/PnP/tree/master/Samples/Branding.AlternateCSSAndSiteLogo)
     

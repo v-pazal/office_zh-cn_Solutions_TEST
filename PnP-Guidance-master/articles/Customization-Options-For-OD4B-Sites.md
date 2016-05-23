@@ -133,7 +133,7 @@ Office 365 包括不基于 SharePoint 体系结构的其他服务。这意味着
 ## 其他资源
 
 
-- [SharePoint 网站品牌和页面自定义解决方案](sharepoint-site-branding-and-page-customization-solutions.md)
+- [SharePoint 网站品牌和页面自定义解决方案](SharePoint-site-branding-and-page-customization-solutions.md)
     
 - [使用外接程序模型自定义 OneDrive for Business 网站](http://blogs.msdn.com/b/vesku/archive/2015/01/01/customizing-onedrive-for-business-sites-with-app-model.aspx)
     

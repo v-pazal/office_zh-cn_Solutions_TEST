@@ -19,14 +19,14 @@
 
 |**文章**|**示例**|**介绍如何...**|
 |:-----|:-----|:-----|
-|[使用 Office 365 示例外接程序中的本地化功能](use-localization-features-in-office-365-sample-app.md)|[Core.CreateContentTypes](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.CreateContentTypes)|使用 Office 365 中的本地化功能，为 SharePoint 网站、列表、内容类型和网站栏提供本地化值。 |
-|[本地化 UI 元素示例 SharePoint 外接程序](localize-ui-elements-sample-app-for-sharepoint.md)|[Core.JavaScriptCustomization](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Core.JavaScriptCustomization)|使用 JavaScript 将 UI 元素值的文本值替换为从 JavaScript 资源文件加载的已翻译文本值，从而本地化 SharePoint UI 元素。 |
+|[使用 Office 365 示例外接程序中的本地化功能](Use-localization-features-in-Office-365-sample-app.md)|[Core.CreateContentTypes](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.CreateContentTypes)|使用 Office 365 中的本地化功能，为 SharePoint 网站、列表、内容类型和网站栏提供本地化值。 |
+|[本地化 UI 元素示例 SharePoint 外接程序](Localize-UI-elements-sample-app-for-SharePoint.md)|[Core.JavaScriptCustomization](https://github.com/OfficeDev/PnP/tree/master/Scenarios/Core.JavaScriptCustomization)|使用 JavaScript 将 UI 元素值的文本值替换为从 JavaScript 资源文件加载的已翻译文本值，从而本地化 SharePoint UI 元素。 |
 
 ## 其他资源
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)
     

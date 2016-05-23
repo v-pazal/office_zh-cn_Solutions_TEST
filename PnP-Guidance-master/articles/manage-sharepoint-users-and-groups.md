@@ -131,5 +131,5 @@ cc.Web.RemovePermissionLevelFromUser(currentUser.LoginName, RoleType.Reader);
 
 - [SharePoint 网站设置解决方案](sharepoint-site-provisioning-solutions.md)
     
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     

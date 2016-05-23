@@ -15,7 +15,7 @@
 - 显示特定内容类型、网站或列表的自定义功能区。
     
 
- **注释**  本代码示例说明如何调用 JavaScript 函数来处理由功能区的按钮所引发的事件。本代码示例不提供此功能区按钮的 JavaScript 事件处理程序函数的实现。若要实现 JavaScript 事件处理程序函数，请使用嵌入式 JavaScript 技术来在自定义功能区出现的所有页面上嵌入 JavaScript 事件处理程序函数。有关嵌入 JavaScript 的详细信息，请参阅 [使用 JavaScript 自定义您的 SharePoint 网站 UI](customize-your-sharepoint-site-ui-by-using-javascript.md)。
+ **注释**  本代码示例说明如何调用 JavaScript 函数来处理由功能区的按钮所引发的事件。本代码示例不提供此功能区按钮的 JavaScript 事件处理程序函数的实现。若要实现 JavaScript 事件处理程序函数，请使用嵌入式 JavaScript 技术来在自定义功能区出现的所有页面上嵌入 JavaScript 事件处理程序函数。有关嵌入 JavaScript 的详细信息，请参阅 [使用 JavaScript 自定义您的 SharePoint 网站 UI](Customize-your-SharePoint-site-UI-by-using-JavaScript.md)。
 
  **为改进此内容做贡献**
 您可以获取最新的更新，或为改进 [Github 上的此文章](https://github.com/OfficeDev/PnP-Guidance/blob/master/articles/Add-a-custom-ribbon-to-your-SharePoint-site.md)做贡献。您还可以为改进本示例以及 [GitHub 上的其他示例](https://github.com/OfficeDev/PnP)做贡献。有关示例的完整列表，请参阅 [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)。我们欢迎您做出 [贡献](https://github.com/OfficeDev/PnP/wiki/contributing-to-Office-365-developer-patterns-and-practices)。 
@@ -318,7 +318,7 @@ Default.aspx 中的  **InitializeButton_Click** 执行以下任务：
 
 - [Office 365 开发模式和做法解决方案指南](https://msdn.microsoft.com/library/office/dn904529.aspx)
     
-- [使用 JavaScript 自定义您的 SharePoint 网站 UI](customize-your-sharepoint-site-ui-by-using-javascript.md)
+- [使用 JavaScript 自定义您的 SharePoint 网站 UI](Customize-your-SharePoint-site-UI-by-using-JavaScript.md)
     
 - [自定义和扩展 SharePoint 2010 服务器功能区](https://msdn.microsoft.com/library/office/gg552606%28v=office.14%29.aspx)
     

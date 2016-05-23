@@ -703,7 +703,7 @@ public ActionResult Orders(string customerId)
 
 
 
-- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](composite-buisness-apps-for-sharepoint.md)
+- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](Composite-buisness-apps-for-SharePoint.md)
     
 - [GitHub 上的 Office 365 开发模式和做法](https://github.com/OfficeDev/PnP)
     

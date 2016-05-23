@@ -24,9 +24,9 @@
 
 
 
-- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](branding-and-site-provisioning-solutions-for-sharepoint.md)
+- [SharePoint 2013 和 SharePoint Online 的品牌打造和网站设置解决方案](Branding-and-site-provisioning-solutions-for-SharePoint.md)
     
-- [将自定义功能区添加到 SharePoint 网站](add-a-custom-ribbon-to-your-sharepoint-site.md)
+- [将自定义功能区添加到 SharePoint 网站](Add-a-custom-ribbon-to-your-SharePoint-site.md)
     
-- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](composite-buisness-apps-for-sharepoint.md)
+- [适用于 SharePoint 2013 和 SharePoint Online 的复合企业外接程序](Composite-buisness-apps-for-SharePoint.md)
     

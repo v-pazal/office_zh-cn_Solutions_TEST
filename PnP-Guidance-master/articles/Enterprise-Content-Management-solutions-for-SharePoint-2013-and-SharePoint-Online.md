@@ -19,20 +19,20 @@
 
 |**文章**|**示例**|**介绍如何...**|
 |:-----|:-----|:-----|
-|[文档库模板](document-library-templates-sample-app-for-sharepoint.md)|[ECM.DocumentLibraries](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.DocumentLibraries)|在创建文档库时实现自定义文档库模板。 |
-|[自动标记](autotagging-sample-app-for-sharepoint.md)|[ECM.AutoTagging](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.AutoTagging)|创建文档或将文档上载到 SharePoint 时自动标记文档。 |
-|[信息管理](information-management-sample-app-for-sharepoint.md)|[Core.InformationManagement](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/Core.InformationManagement)|获取或设置管理网站生命周期的网站策略（在一段时间后关闭和删除网站）。 |
-|[记录管理扩展](records-management-extensions-sample-app-for-sharepoint.md)|[ECM.RecordsManagement](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.RecordsManagement)|启用和更改网站与列表的就地记录管理设置。|
-|[分类操作](taxonomy-operations-sample-app-for-sharepoint.md)|[Core.MMS](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.MMS)|创建和读取分类数据。|
-|[批量上载文档](bulk-upload-documents-sample-app-for-sharepoint.md)|[Core.BulkDocumentUploader](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.BulkDocumentUploader)|将文档批量上载到文档库（包括 OneDrive for Business）。|
-|[上载大文件](upload-large-files-sample-app-for-sharepoint.md)|[Core.LargeFileUpload](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.LargeFileUpload)|使用不同的方法将大文件上载到文档库。|
-|[同步术语组](synchronize-term-groups-sample-app-for-sharepoint.md)|[Core.MMSSync](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.MMSSync)|在多个术语存储之间同步术语组。|
+|[文档库模板](Document-library-templates-sample-app-for-SharePoint.md)|[ECM.DocumentLibraries](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.DocumentLibraries)|在创建文档库时实现自定义文档库模板。 |
+|[自动标记](Autotagging-sample-app-for-SharePoint.md)|[ECM.AutoTagging](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.AutoTagging)|创建文档或将文档上载到 SharePoint 时自动标记文档。 |
+|[信息管理](Information-management-sample-app-for-SharePoint.md)|[Core.InformationManagement](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/Core.InformationManagement)|获取或设置管理网站生命周期的网站策略（在一段时间后关闭和删除网站）。 |
+|[记录管理扩展](Records-management-extensions-sample-app-for-SharePoint.md)|[ECM.RecordsManagement](https://github.com/OfficeDev/PnP/tree/dev/Scenarios/ECM.RecordsManagement)|启用和更改网站与列表的就地记录管理设置。|
+|[分类操作](Taxonomy-operations-sample-app-for-SharePoint.md)|[Core.MMS](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.MMS)|创建和读取分类数据。|
+|[批量上载文档](Bulk-upload-documents-sample-app-for-SharePoint.md)|[Core.BulkDocumentUploader](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.BulkDocumentUploader)|将文档批量上载到文档库（包括 OneDrive for Business）。|
+|[上载大文件](Upload-large-files-sample-app-for-SharePoint.md)|[Core.LargeFileUpload](https://github.com/OfficeDev/PnP/tree/dev/Samples/Core.LargeFileUpload)|使用不同的方法将大文件上载到文档库。|
+|[同步术语组](Synchronize-term-groups-sample-app-for-SharePoint.md)|[Core.MMSSync](https://github.com/OfficeDev/PnP/tree/master/Samples/Core.MMSSync)|在多个术语存储之间同步术语组。|
 
 ## 其他资源
 
 
 
-- [Office 365 开发模式和做法解决方案指南](office-365-development-patterns-and-practices-solution-guidance.md)
+- [Office 365 开发模式和做法解决方案指南](Office-365-development-patterns-and-practices-solution-guidance.md)
     
 - [模式和做法开发人员中心](http://dev.office.com/patterns-and-practices)
     
